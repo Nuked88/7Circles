@@ -21,9 +21,12 @@ c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles
 bin\Windows Phone\Debug\
 c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\7Circles.xap
 c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles\obj\Windows Phone\Debug\XapCacheFile.xml
-c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\7Circles.xap
-c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles\obj\Windows Phone\Debug\XapCacheFile.xml
-c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\AppManifest.xaml
-c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles\obj\Windows Phone\Debug\WMAppManifest.xml.g
-c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\Content\bgbase.xnb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\Content\bglayer1.xnb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\Content\bglayer2.xnb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\7Circles.xap
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\obj\Windows Phone\Debug\WMAppManifest.xml
 bin\Windows Phone\Debug\

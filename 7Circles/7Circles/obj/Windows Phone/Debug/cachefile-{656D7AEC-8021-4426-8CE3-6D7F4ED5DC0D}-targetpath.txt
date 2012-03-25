@@ -7,3 +7,6 @@ Content\firmamento.xnb
 Content\firmamento2.xnb
 Content\firmamento3.xnb
 Content\night.xnb
+Content\bgbase.xnb
+Content\bglayer1.xnb
+Content\bglayer2.xnb

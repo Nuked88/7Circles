@@ -82,6 +82,33 @@
       <Output>c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\Content\night.xnb</Output>
       <Time>2012-03-25T00:33:43.915409+01:00</Time>
     </Item>
+    <Item>
+      <Source>bgbase.png</Source>
+      <Name>bgbase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\Content\bgbase.xnb</Output>
+      <Time>2012-03-25T13:50:04.5678078+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bglayer1.png</Source>
+      <Name>bglayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\Content\bglayer1.xnb</Output>
+      <Time>2012-03-25T13:50:04.5868089+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bglayer2.png</Source>
+      <Name>bglayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\Content\bglayer2.xnb</Output>
+      <Time>2012-03-25T13:54:55.6294556+02:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{656D7AEC-8021-4426-8CE3-6D7F4ED5DC0D}</ContentProjectGUID>
@@ -89,10 +116,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7CirclesContent\</RootDirectory>
-      <LoggerRootDirectory>c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles\</LoggerRootDirectory>
-      <IntermediateDirectory>c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles\obj\Windows Phone\Debug\</IntermediateDirectory>
-      <OutputDirectory>c:\users\manuel\documents\visual studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7CirclesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\7Circles\7Circles\7Circles\bin\Windows Phone\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

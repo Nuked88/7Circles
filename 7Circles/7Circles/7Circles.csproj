@@ -69,6 +69,8 @@
     <Reference Include="System.Net" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="allvar.cs" />
+    <Compile Include="bgparallax.cs" />
     <Compile Include="ConvertUnits.cs" />
     <Compile Include="particle.cs" />
     <Compile Include="ParticleEngine.cs" />
